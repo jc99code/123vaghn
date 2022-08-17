@@ -1,3 +1,5 @@
-I am a self-taught C/C++, Java, C#, (x86 and x64) assembly programmer.
-I also know Python from an academic course I took long ago.
-I know very little html, though I could figure that out easily if I cared or had a good reason.
+I am a self-taught programmer.
+
+I (mostly) know the following languages: C, C++, C#, Java, and (somewhat) know these other following languages: (x86 and amd64) assembly.
+
+I also had taken a (beginner) Python and SQL course in community college. 
